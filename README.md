@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wellflat)](https://github.com/wellflat)
+<!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wellflat)](https://github.com/wellflat)
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wellflat&layout=compact)](https://github.com/wellflat)-->
 <!--
 **wellflat/wellflat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
